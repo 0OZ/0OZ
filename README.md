@@ -31,3 +31,5 @@ I'm an full-stack developer. with a passion for quality.
 
 ![0oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0oz&count_private=true&show_icons=true&theme=dracula)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=0oz&theme=gruvbox&border_radius=4.5) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oz&layout=compact)](https://github.com/0oz)
