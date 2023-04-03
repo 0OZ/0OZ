@@ -1,4 +1,4 @@
-# 🔟🅧 dev 0OZ
+# 🅧
 
 **`Architecting The Digital.`**
 
