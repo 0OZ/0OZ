@@ -2,7 +2,7 @@
 
 **`Architecting The Digital.`**
 
-I'm an full-stack developer. with a passion for quality.
+Shalom!
 
 ---
 
