@@ -34,4 +34,4 @@ Shalom!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oz&layout=compact)](https://github.com/0oz)
 
-![test](https://github-readme-activity-graph.cyclic.app/graph/?username=0oz&bg_color=22272d&color=fff&line=00E676&point=fff&hide_border=true)
+<!-- ![test](https://github-readme-activity-graph.cyclic.app/graph/?username=0oz&bg_color=22272d&color=fff&line=00E676&point=fff&hide_border=true) -->
