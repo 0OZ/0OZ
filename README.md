@@ -8,7 +8,6 @@ Shalom!
 
 ### 🧰 Languages and Tools
 
-
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" />
@@ -24,9 +23,5 @@ Shalom!
 
 <br />
 
-#
+<!--START_SECTION:activity-->
 
-### 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oz&layout=compact)](https://github.com/0oz)
-<!-- ![test](https://github-readme-activity-graph.cyclic.app/graph/?username=0oz&bg_color=22272d&color=fff&line=00E676&point=fff&hide_border=true) -->
