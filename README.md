@@ -136,4 +136,3 @@ Rust      → The exciting new thing I'm learning. The borrow checker
     <sup>(...I'm so sorry.)</sup>
   </sub>
 </p>
-```
