@@ -19,7 +19,7 @@
 
 I'm Christian — a developer from Berlin who's been writing code for about 9 years now. Some of it was even good!
 
-I run a small company called **[evest.io](https://evest.io)** where we help businesses figure out this whole "digital transformation" thing. We also built **[auftrag-select.com](https://auftrag-select.com)** (a procurement platform for German public tenders) and **[gesetze.ai](https://gesetze.ai)** (because German law needed to be *even more* confusing, now with AI ✨).
+I run a small company called **[evest.io](https://evest.io)** where we help businesses figure out this whole "digital transformation" thing. We also built **[auftrag.ai](https://auftrag.ai)** (a procurement platform for German public tenders) and **[gesetze.ai](https://gesetze.ai)** (because German law needed to be *even more* confusing, now with AI ✨).
 
 ### 🤷 What I actually do
 
