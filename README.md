@@ -17,9 +17,9 @@
 
 ### 👋 Hey there!
 
-I'm Christian — a developer from Berlin who's been writing code for about 9 years now. Some of it was even good!
+I'm Christian a developer from Berlin who's been writing code for about 9 years now. Some of it was even good!
 
-I run a small company called **[evest.io](https://evest.io)** where we help businesses figure out this whole "digital transformation" thing. We also built **[auftrag.ai](https://auftrag.ai)** (a procurement platform for German public tenders) and **[onsand.app](https://onsand.app)**
+I run a small company called **[evest.io](https://evest.io)** where we help businesses figure out this whole "digital transformation" thing. We also built **[auftrag.one](https://auftragone.com)** (a procurement platform for German public tenders) and **[onsand.app](https://onsand.app)**
 
 ### 🤷 What I actually do
 
