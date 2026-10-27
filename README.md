@@ -21,7 +21,7 @@ Years of Kotlin and event-driven systems; more recently, Rust. I care about stro
 
 ## Links
 
-[rawe.io](https://rawe.io) · [evest.io](https://evest.io) · [auftrag-select.com](https://auftrag-select.com) · [gesetze.ai](https://gesetze.ai)
+[rawe.io](https://rawe.io) · [evest.io](https://evest.io) · [gesetze.ai](https://gesetze.ai)
 
 ---
 
