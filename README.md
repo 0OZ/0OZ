@@ -1,12 +1,12 @@
 # I'm Christian
 
-Berlin-based. Building software for 10 years. Running [evest.io](https://evest.io).
+10 years of building software. Based in Berlin. Running [evest.io](https://evest.io).
 
-AI writes most of my code now. I'm glad I learned before it could.
+AI writes most of my code now. I'm happy I learned to do it myself first.
 
-I spent years writing, debugging, and maintaining software myself. That experience is what I rely on when reviewing generated code: understanding the trade-offs, spotting problems, and knowing when to start over rather than keep prompting.
+I've spent enough time debugging my own mistakes to have opinions about the ones it generates. I still read the code, question the design, and sometimes throw the whole thing away.
 
-These days, my work is closer to a CTO and product owner than a software engineer. I spend more time deciding what to build, working through product decisions, and taking responsibility for the technical direction. I still read and change code. I just don't need to write every line myself.
+I don't really call myself a software engineer anymore. CTO / product owner is closer: figuring out what we should build, making the technical calls, and deciding what's ready to ship. Less typing, still plenty to do.
 
 ## What I'm building
 
@@ -15,9 +15,11 @@ At [evest.io](https://evest.io), we build software for businesses and develop ou
 - [auftrag.one](https://auftragone.com) — procurement software for German public tenders.
 - [onsand.app](https://onsand.app)
 
-## Technical background
+## Type-driven, please
 
-Years of Kotlin and event-driven systems; more recently, Rust. I care about strong types, clear boundaries, and being able to understand a system without having to keep all of it in my head.
+Kotlin for years, Rust more recently. I love type-driven design: model the domain properly, make invalid states unrepresentable, and let the compiler tell me what I missed.
+
+If a business rule only exists in a comment, I'd rather put it in a type. Especially when AI is writing the implementation.
 
 ## Links
 
