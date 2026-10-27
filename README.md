@@ -8,6 +8,8 @@ I've spent enough time debugging my own mistakes to have opinions about the ones
 
 I don't really call myself a software engineer anymore. CTO / product owner is closer: figuring out what we should build, making the technical calls, and deciding what's ready to ship. Less typing, still plenty to do.
 
+My most ambitious prompt so far: `Copy Christian's skills. Don't copy his mistakes.`
+
 ## What I'm building
 
 At [evest.io](https://evest.io), we build software for businesses and develop our own products:
